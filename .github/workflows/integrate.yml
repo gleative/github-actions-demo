@@ -2,7 +2,7 @@ name: Node Continuous Integration
 
 on:
   pull_request:
-    branches: [master]
+    branches: [main]
 
 # Hver workflow burde ha minst 1 job! Kan ha flere
 jobs:
